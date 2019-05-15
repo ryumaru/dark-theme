@@ -1,2 +1,2 @@
-# dark-theme
-The default dark Ryuzine theme.
+# dark
+Default Ryuzine theme
